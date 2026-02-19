@@ -37,20 +37,21 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-<p align="center"><b>Browse & Run VLMs Locally from HuggingFace</b></p>
-<img src="screenshots/aegis-vlm-browser.png" alt="Aegis AI — Browse and download vision language models from HuggingFace" width="100%">
-<p align="center"><em>Download and run SmolVLM2, Qwen-VL, LFM2.5, LLaVA, MiniCPM-V directly on your machine. Even a Mac M1 Mini 8GB works.</em></p>
-</td>
-<td width="50%">
-<p align="center"><b>Chat with your AI Security Agent</b></p>
-<img src="screenshots/aegis-chat-agent.png" alt="Aegis AI — Ask your agent what happened and get real answers" width="100%">
-<p align="center"><em>Ask "anyone entering the room?" — Aegis searches your footage and gives you a real answer with timestamps and clips.</em></p>
-</td>
-</tr>
-</table>
+<div align="center">
+
+**Browse & Run VLMs Locally from HuggingFace**
+
+<img src="screenshots/aegis-vlm-browser.png" alt="Aegis AI — Browse and download vision language models from HuggingFace" width="80%">
+
+*Download and run SmolVLM2, Qwen-VL, LFM2.5, LLaVA, MiniCPM-V directly on your machine. Even a Mac M1 Mini 8GB works.*
+
+**Chat with your AI Security Agent**
+
+<img src="screenshots/aegis-chat-agent.png" alt="Aegis AI — Ask your agent what happened and get real answers" width="80%">
+
+*Ask "anyone entering the room?" — Aegis searches your footage and gives you a real answer with timestamps and clips.*
+
+</div>
 
 ---
 
